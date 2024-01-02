@@ -26,7 +26,7 @@ To use the Jacobian Calculator:
 
 Here's an example of the calculator in use:
 
-![Jacobian Calculator Example](URL_TO_IMAGE)
+![Jacobian Calculator Example](IMG_5541.jpg)
 
 In this example, the functions `x**2 + y**2` and `exp(x) * sin(y)` are evaluated at `x = 1, y = π/4`.
 
