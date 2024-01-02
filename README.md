@@ -12,7 +12,7 @@ This repository contains a Jacobian Calculator implemented in Python for use in 
 
 To use the Jacobian Calculator:
 
-1. Open the `Jacobian_Calculator.ipynb` in Google Colab or a Jupyter environment.
+1. Open the `Jacobian-Calculator.ipynb` in Google Colab or a Jupyter environment.
 2. Enter your functions, variables, and the points of evaluation into the respective fields.
 3. Click the "Evaluate Jacobian" button to compute and display the Jacobian matrix and its heatmap visualization.
 
