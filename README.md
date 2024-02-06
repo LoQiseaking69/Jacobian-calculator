@@ -42,13 +42,13 @@ In this example, the functions `x**2 + y**2` and `exp(x) * sin(y)` are evaluated
 
 ## Installation
 
-...
+```bash
 
 To open this project in an interactive environment with Google Colab, click the following button:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LoQiseaking69/Jacobian-calculator/blob/main/Jacobian-Calculator.ipynb)
 
-...
+```
 
 
 You can clone this repository or download the `.ipynb` file directly to your local machine. If you're using Google Colab, you can open the notebook directly from GitHub or upload the `.ipynb` file.
