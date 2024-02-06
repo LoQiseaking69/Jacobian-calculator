@@ -42,7 +42,7 @@ In this example, the functions `x**2 + y**2` and `exp(x) * sin(y)` are evaluated
 
 ## Installation
 
-```bash
+```
 
 To open this project in an interactive environment with Google Colab, click the following button:
 ```
