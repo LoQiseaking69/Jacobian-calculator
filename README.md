@@ -39,6 +39,10 @@ In this example, the functions `x**2 + y**2` and `exp(x) * sin(y)` are evaluated
 - SymPy
 - TensorFlow (optional, for TensorFlow-compatible functions)
 - ipywidgets (for interactive input)
+___
+here are results from a more recent and different input calculation:
+![random_results](https://github.com/LoQiseaking69/Jacobian-calculator/blob/main/IMG_1080.png)
+___
 
 ## Installation
 
